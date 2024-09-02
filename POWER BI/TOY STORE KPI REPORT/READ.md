@@ -1,0 +1,1 @@
+As a new data analyst at Maven Toys, I built a simple KPI report using sales, product, and store data from Jan. 2022 to Sept. 2023. The report helps leadership track key metrics and spot trends, supporting data-driven decisions and growth opportunities.
